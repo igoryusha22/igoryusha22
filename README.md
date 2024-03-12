@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 👨‍💻 I'm senior frontend developer
+- 🕵️‍♀️ I’m currently free agent
+- 🔭 I’m currently learning golang
+- 👯 I’m looking to collaborate on compolicated things
+- 📫 How to reach me: [Telegram](https://t.me/igoryusha22)
+- 🌏 Check out [nerusin.dev](https://nerusin.dev)
+
+
 <!--
 **igoryusha22/igoryusha22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
