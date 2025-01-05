@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm senior frontend developer
-- 🕵️‍♀️ I’m currently free agent
-- 🔭 I’m currently learning golang
+- 👨‍💻 I'm frontend architect
+- 🕵️‍♀️ I’m working for [amoCRM](https://amocrm.ru)/[Kommo](https://kommo.com)
 - 👯 I’m looking to collaborate on complicated things
 - 📫 How to reach me: [Telegram](https://t.me/igoryusha22)
 - 🌏 Check out [nerusin.dev](https://nerusin.dev)
